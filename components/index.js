@@ -1,4 +1,4 @@
-import ScreenHeaderBtn from "./common/header/ScreenHeaderBtn";
+import ScreenHeaderBtn from "./common/header/ScreenHeader";
 
 // home screen
 import Welcome from "./home/welcome/Welcome";

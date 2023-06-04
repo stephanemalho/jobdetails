@@ -37,11 +37,11 @@ const Home = () => {
           }}
         >
           <Welcome 
-             searchTerm={searchTerm}
+              searchTerm={searchTerm}
               setSearchTerm={setSearchTerm}
               handleClick={() => {
                 if (searchTerm) {
-                  router.push(`/Search/${ searchTerm }`);
+                  router.push(`/search/${ searchTerm }`);
                 }
               }}
           />
