@@ -88,7 +88,6 @@ const JobDetails = () => {
           headerTitle: "",
         }}
       />
-
       <>
         <ScrollView showsVerticalScrollIndicator={false}
           refreshControl={
